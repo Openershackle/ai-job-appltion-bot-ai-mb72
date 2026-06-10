@@ -1,4 +1,4 @@
-# 
+# Avancé AI Job Application Bot scripts. Avec traitement en temps réel et vision par ordinateur — optimisé pour des performances maximales.
 
 
 
